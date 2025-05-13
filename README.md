@@ -6,6 +6,14 @@
 pip install Django transformers torch safetensors wordcloud openpyxl requests matplotlib pandas
 ```
 
+## 📚 Ноутбуки
+
+| Описание | Ссылка |
+|---------|--------|
+| Обучение модели BERT | [https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep?usp=sharing](https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep?usp=sharing) |
+| Инференс | [https://colab.research.google.com/gist/OlgaPlesskaya/79a136762ed41486ea8ee184f3141d1e/-ipynb.ipynb#scrollTo=prrDe9ppMGdc](https://colab.research.google.com/gist/OlgaPlesskaya/79a136762ed41486ea8ee184f3141d1e/-ipynb.ipynb#scrollTo=prrDe9ppMGdc) |
+| Предобработка (самая 1) | [[Open in Colab](https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep )](https://colab.research.google.com/drive/1z6RiDQtVZmy60ko9eWpdVk3phRFZ7BR9?usp=sharing#scrollTo=aQOM5QdQniWT) |
+
 ## 📌 Описание проекта
 
 Сервис предобработки текстовых сообщений на базе **Django**, предназначенный для загрузки CSV-файлов с текстами, автоматической классификации текстов с помощью модели BERT и отображения результатов в удобном виде.
