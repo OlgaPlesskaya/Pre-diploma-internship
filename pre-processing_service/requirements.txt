@@ -1,9 +1,0 @@
-django
-transformers
-wordcloud
-openpyxl
-requests
-pandas
-matplotlib
-torch
-safetensors
