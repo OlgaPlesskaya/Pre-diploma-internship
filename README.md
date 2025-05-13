@@ -10,9 +10,9 @@ pip install Django transformers torch safetensors wordcloud openpyxl requests ma
 
 | Описание | Ссылка |
 |---------|--------|
-| Обучение модели BERT | [https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep?usp=sharing](https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep?usp=sharing) |
-| Инференс | [https://colab.research.google.com/gist/OlgaPlesskaya/79a136762ed41486ea8ee184f3141d1e/-ipynb.ipynb#scrollTo=prrDe9ppMGdc](https://colab.research.google.com/gist/OlgaPlesskaya/79a136762ed41486ea8ee184f3141d1e/-ipynb.ipynb#scrollTo=prrDe9ppMGdc) |
-| Предобработка (самая 1) | [[Open in Colab](https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep )](https://colab.research.google.com/drive/1z6RiDQtVZmy60ko9eWpdVk3phRFZ7BR9?usp=sharing#scrollTo=aQOM5QdQniWT) |
+| Обучение модели BERT | https://colab.research.google.com/drive/1YuaJge4fmBhaGICZcYYcmAzacn9_B7ep?usp=sharing |
+| Инференс | https://colab.research.google.com/gist/OlgaPlesskaya/79a136762ed41486ea8ee184f3141d1e/-ipynb.ipynb#scrollTo=prrDe9ppMGdc |
+| Предобработка (v.1) | https://colab.research.google.com/drive/1z6RiDQtVZmy60ko9eWpdVk3phRFZ7BR9?usp=sharing#scrollTo=XCvJCz0MAn6f |
 
 ## 📌 Описание проекта
 
